@@ -1,0 +1,16 @@
+body{
+    font-family: Hiragino Kaku Gothic Pro;
+    vertical-align: top;
+    background-color: mintcream;
+    color: navy;
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    color: mintcream;
+    font-weight: bold;
+    background-color: navy;
+}
+
